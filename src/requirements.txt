@@ -17,3 +17,6 @@ SQLAlchemy==2.0.36
 starlette==0.39.2
 typing_extensions==4.12.2
 uvicorn==0.31.1
+pytest
+pytest-asyncio
+httpx
