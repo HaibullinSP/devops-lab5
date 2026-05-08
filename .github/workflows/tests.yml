@@ -19,4 +19,4 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r src/requirements.txt pytest
       - name: Run Tests
-        run: python -m pytest tests /
+        run: python -m pytest tests/
